@@ -29,9 +29,7 @@ struct czm_ray
 射线起点。
 
 
-
 ## 2. 成员 `direction`
-
 ### 类型
 
 `vec3`
